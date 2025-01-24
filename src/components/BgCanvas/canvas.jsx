@@ -7,7 +7,7 @@ function Canvas() {
         "query-text": { size: 0.04, type: "fill", color: "aqua" },
         "query-link": { size: 0.04, type: "fill", color: "blue" },
         "query-button": { size: 0.06, type: "border", color: "green", borderSize: 2 },
-        "query-img": { size: 0.04, type: "fill", color: "red" },
+        "query-img": { size: 0.04, type: "fill", color: "white" },
         "query-form": { size: 0.04, type: "fill", color: "purple" },
         "query-animation": { size: 0.04, type: "fill", color: "yellow" },
         "query-menu": { size: 0.09, type: "fill", color: "orangered",}
